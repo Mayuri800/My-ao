@@ -1,0 +1,37 @@
+.header{
+    color : orangered;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    border-color: purple;
+   background-color: white;
+}
+h2{
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    border-color: purple;
+   background-color: black;
+}
+h3{
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: solid;
+    border-color: purple;
+   background-color: black;
+}
+h4{
+    
+    display:flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+body{
+    background-image:url('Study.jpg') ;
+  }

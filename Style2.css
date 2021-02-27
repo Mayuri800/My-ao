@@ -1,0 +1,27 @@
+h1{
+    color : purple;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+h2{
+    color : rgb(0, 128, 85);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+h4{
+    color : rgb(0, 128, 85);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+h3{
+    color : blue;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+body{
+    background-image:url('school.jpg') ;
+  }

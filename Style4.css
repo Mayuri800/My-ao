@@ -1,0 +1,39 @@
+h1{
+    color: green;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border: solid;
+    background-color: yellow;
+}
+h3{
+    color: pink;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border: solid;
+    background-color: purple;
+}
+h4{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+h2{
+    color: white;
+    display: flex;
+    justify-content: left;
+    align-content: left;
+    
+}
+h5{
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+body{
+    background-image:url('science.jpg') ;
+  }
